@@ -17,3 +17,8 @@ An on-device local AI application built using Tether `@qvac/sdk`.
 ## Author
 
 bartsimpsonthegreat
+
+
+## License
+
+MIT
