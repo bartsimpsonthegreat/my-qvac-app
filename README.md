@@ -12,3 +12,8 @@ An on-device local AI application built using Tether `@qvac/sdk`.
 ## Run Instructions
 1. Install: `npm install`
 2. Run: `node index.js`
+
+
+## Author
+
+bartsimpsonthegreat
